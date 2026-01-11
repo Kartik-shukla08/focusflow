@@ -3,6 +3,7 @@ import { useUIStore } from '../store'; // Assuming you have this
 import { usePlayerStore } from '../store'; // The store we just made
 import { Play, Plus, Link as LinkIcon, Youtube, CheckCircle } from 'lucide-react';
 import { extractVideoId } from '../constants';
+import SearchModal from './SearchModal';
 
 const MusicSearch: React.FC = () => {
   const { currentTheme } = useUIStore();
