@@ -49,14 +49,14 @@ const App: React.FC = () => {
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Focus Flow - Ultimate Study Companion" />
         <meta property="og:description" content="Listen to Lofi, track time, and focus better. Join study rooms now." />
-        <meta property="og:image" content="https://focusflow.vercel.app/og-image.png" /> {/* We will add this image next */}
-        <meta property="og:url" content="https://focusflow.vercel.app/" /> {/* CHANGE THIS to your actual Vercel link */}
+        <meta property="og:image" content="https://focus-flo.vercel.app/og-image.png" /> {/* We will add this image next */}
+        <meta property="og:url" content="https://focus-flo.vercel.app/" /> {/* CHANGE THIS to your actual Vercel link */}
         
         {/* 3. Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Focus Flow - Lofi & Focus" />
         <meta name="twitter:description" content="Your aesthetic study space." />
-        <meta name="twitter:image" content="https://focusflow.vercel.app/og-image.png" />
+        <meta name="twitter:image" content="https://focus-flo.vercel.app/og-image.png" />
         </Helmet>
       {/* Background Layer */}
       <div className="absolute inset-0 z-0">
