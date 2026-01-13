@@ -1,4 +1,4 @@
-# Focus Flow — Technical README
+# Focus Flow 
 
 > A lightweight, collaborative productivity-focused web application for managing focused work sessions, optional synchronized audio sessions, real-time chat, and essential productivity tools.
 
