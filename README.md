@@ -1,5 +1,7 @@
 # Focus Flow 
 
+[![Focus Flow Preview](./public/og-image.png)](https://focus-flo.vercel.app)
+
 > A lightweight, collaborative productivity-focused web application for managing focused work sessions, optional synchronized audio sessions, real-time chat, and essential productivity tools.
 
 ---
